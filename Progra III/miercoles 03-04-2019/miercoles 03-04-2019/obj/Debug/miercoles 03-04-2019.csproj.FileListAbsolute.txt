@@ -1,0 +1,10 @@
+C:\Users\universitario\Desktop\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\bin\Debug\miercoles 03-04-2019.exe.config
+C:\Users\universitario\Desktop\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles 03-04-2019.csprojResolveAssemblyReference.cache
+C:\Users\universitario\Desktop\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles_03_04_2019.Form1.resources
+C:\Users\universitario\Desktop\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles_03_04_2019.Properties.Resources.resources
+C:\Users\universitario\Desktop\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles 03-04-2019.csproj.GenerateResource.Cache
+C:\proc\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\bin\Debug\miercoles 03-04-2019.exe.config
+C:\proc\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles 03-04-2019.csprojResolveAssemblyReference.cache
+C:\proc\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles_03_04_2019.Form1.resources
+C:\proc\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles_03_04_2019.Properties.Resources.resources
+C:\proc\Progra III\miercoles 03-04-2019\miercoles 03-04-2019\obj\Debug\miercoles 03-04-2019.csproj.GenerateResource.Cache
